@@ -2,7 +2,7 @@
 
 This is an extension to [YOLOv2](https://pjreddie.com/darknet/yolov2/), including our trained model for vehicle detection on the dataset of 2018 NVIDIA AI City Challenge. 
 
-**We strongly encourage users to try the latest [YOLOv3 object detector](https://pjreddie.com/darknet/yolo/) instead.** 
+**We strongly encourage users to use the latest [YOLOv4 object detector](https://github.com/AlexeyAB/darknet) instead.**
 
 ## Introduction
 
@@ -10,7 +10,7 @@ We select 4,500 frames uniformly sampled from the dataset of 2018 NVIDIA AI City
 
 ## How to Build & Use
 
-1. Download the trained model (weights) [here](https://drive.google.com/open?id=1k1ha7q_Zuv3V9VL_8k47vCaLB0tS8w-J). 
+1. Download the trained model (weights) [here](https://drive.google.com/open?id=1pyK8Xd9aqZ5VEXL7J9CU7CZ-JNJ3OO1r). 
 2. Follow the instruction in Joseph Redmon's [blog](https://pjreddie.com/darknet/yolov2/) to make and test the trained model. The given bash files provide examples of processing the entire dataset. 
 
 <div align="center">

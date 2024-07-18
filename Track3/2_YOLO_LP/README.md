@@ -2,7 +2,7 @@
 
 This is an extension to [YOLOv2](https://pjreddie.com/darknet/yolov2/), including our trained model for license plate detection on the dataset of 2018 NVIDIA AI City Challenge. 
 
-**We strongly encourage users to try the latest [YOLOv3 object detector](https://pjreddie.com/darknet/yolo/) instead.**
+**We strongly encourage users to use the latest [YOLOv4 object detector](https://github.com/AlexeyAB/darknet) instead.** 
 
 ## Introduction
 
@@ -10,7 +10,7 @@ We train a DCNN model to detect the license plate region in each cropped vehicle
 
 ## How to Build & Use
 
-1. Download the trained model (weights) [here](https://drive.google.com/open?id=1T200LSePq0k6fm6c7K9PnnXzgS5-Os7r). 
+1. Download the trained model (weights) [here](https://drive.google.com/open?id=1Td3e5oeOlFheczMvP0f9t--scga9U2e2). 
 2. Follow the instruction in Joseph Redmon's [blog](https://pjreddie.com/darknet/yolov2/) to make and test the trained model. The given bash files provide examples of processing the entire dataset. 
 
 <div align="center">
